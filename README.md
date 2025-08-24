@@ -1,6 +1,6 @@
 # Hey There, I'm Ramiz Mammadli! 🚀
 
-![Profile Banner](https://raw.githubusercontent.com/ramo828/ramo828/main/assets/banner-logo.jpg)
+![Profile Banner](https://raw.githubusercontent.com/ramo828/ramo828/main/banner-logo.jpg)
 
 Welcome to my GitHub universe! I'm **Ramiz Mammadli** (@ramo828), a passionate mechanical engineering graduate turned coding wizard. Currently unleashing my energy into programming, electronics, and chemistry—because why not blend brains with bytes? I'm job-hunting but always hustling on exciting projects. Let's build something epic together! 💥
 
