@@ -83,7 +83,9 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramo828&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+</p>
 **GitHub Journey**
 - Joined: **June 2019**
 - Active for: **7+ years**
