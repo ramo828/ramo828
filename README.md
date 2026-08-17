@@ -5,7 +5,7 @@
 ### Mechanical Engineer → Embedded Systems Developer → Mentor
 
 I'm a self-taught developer with **7+ years** of active GitHub presence (joined June 2019).  
-I specialize in **embedded systems**, **TinyML**, **IoT**, and **Python automation**.  
+I specialize in **embedded systems**, **TinyML**, **IoT**, and **Python automation**.
 
 Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Arduino** to the next generation of makers and developers.
 
@@ -16,28 +16,28 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 
 ### 💼 Current Role
 
-**Mentor @ Brook Academy**  
-- Teaching Python programming from fundamentals to practical projects  
-- Guiding students through Arduino / ESP32 embedded development  
-- Helping beginners build real IoT and automation projects  
+**Mentor @ Brook Academy**
+- Teaching Python programming from fundamentals to practical projects
+- Guiding students through Arduino / ESP32 embedded development
+- Helping beginners build real IoT and automation projects
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-| Category              | Technologies                                      | Level          |
-|-----------------------|---------------------------------------------------|----------------|
-| **Languages**         | Python, C, C++, Cython, Rust, Dart, Java          | Advanced → Intermediate |
-| **Embedded & IoT**    | ESP32 / ESP32-S3 / ESP32-C6, Arduino, Raspberry Pi Pico, ESP-IDF | Advanced |
-| **UI & Graphics**     | LVGL 8 & 9, TFT_eSPI, SquareLine Studio           | Advanced |
-| **Machine Learning**  | TensorFlow Lite Micro, TinyML on microcontrollers | Intermediate–Advanced |
-| **Automation**        | Selenium, WhatsApp/Instagram bots, Telecom tools  | Advanced |
-| **Tools & Build**     | CMake, PlatformIO, Git, Linux                     | Strong |
+| Category              | Technologies                                              | Level                  |
+|-----------------------|-----------------------------------------------------------|------------------------|
+| **Languages**         | Python, C, C++, Cython, Rust, Dart, Java                  | Advanced → Intermediate |
+| **Embedded & IoT**    | ESP32 / ESP32-S3 / ESP32-C6, Arduino, Raspberry Pi Pico, ESP-IDF | Advanced            |
+| **UI & Graphics**     | LVGL 8 & 9, TFT_eSPI, SquareLine Studio                   | Advanced               |
+| **Machine Learning**  | TensorFlow Lite Micro, TinyML on microcontrollers         | Intermediate–Advanced  |
+| **Automation**        | Selenium, WhatsApp/Instagram bots, Telecom tools          | Advanced               |
+| **Tools & Build**     | CMake, PlatformIO, Git, Linux                             | Strong                 |
 
-**Core strengths:**  
-- Taking ideas from schematic → working firmware  
-- Optimizing for limited RAM/Flash on microcontrollers  
-- Building practical automation tools that solve real problems  
+**Core strengths:**
+- Taking ideas from schematic → working firmware
+- Optimizing for limited RAM/Flash on microcontrollers
+- Building practical automation tools that solve real problems
 - Teaching complex topics in a simple, project-based way
 
 ---
@@ -49,10 +49,13 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 |---------|-------------|------|
 | [**esp32-tensorflow**](https://github.com/ramo828/esp32-tensorflow) | Custom TensorFlow Lite Micro port + ready TinyML examples for ESP32 | C++ |
 | [**esp32_s3_lvgl_9_example**](https://github.com/ramo828/esp32_s3_lvgl_9_example) | Clean LVGL 9 + TFT_eSPI + FT6336G setup for LCDWIKI ESP32-S3 boards | C / LVGL 9 |
+| [**esp32c6_lvgl_9**](https://github.com/ramo828/esp32c6_lvgl_9) | LVGL 9 example for ESP32-C6 | C |
 | [**esp32c6_lvgl_8**](https://github.com/ramo828/esp32c6_lvgl_8) | LVGL 8 example for ESP32-C6 | C++ |
 | [**esp32s3_mnist_predict_web**](https://github.com/ramo828/esp32s3_mnist_predict_web) | MNIST digit recognition on ESP32-S3 with web interface | Jupyter + Embedded |
 | [**color_prediction_esp32_s3**](https://github.com/ramo828/color_prediction_esp32_s3) | Real-time color classification on ESP32-S3 | TinyML |
 | [**esp32s3-voice-asistan**](https://github.com/ramo828/esp32s3-voice-asistan) | Voice assistant on ESP32-S3 (LEDs, buzzer, commands) | C / ESP-IDF |
+| [**tiny_print_library**](https://github.com/ramo828/tiny_print_library) | Lightweight print library for microcontrollers | C++ |
+| [**ez_keyboard**](https://github.com/ramo828/ez_keyboard) | Easy keyboard library for embedded projects | C++ |
 | [**4D7S**](https://github.com/ramo828/4D7S) | Arduino 4-digit 7-segment display driver | C++ |
 
 #### Automation & Tools
@@ -65,9 +68,9 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 | [**edu_book_maker**](https://github.com/ramo828/edu_book_maker) | Educational book generation tool | Python |
 
 #### Older but still relevant
-- Instagram & WhatsApp automation bots  
-- Raspberry Pi Pico projects (TensorFlow Lite, temperature sensors, serial keyboard)  
-- Various LVGL test and monitoring projects  
+- Instagram & WhatsApp automation bots
+- Raspberry Pi Pico projects (TensorFlow Lite, temperature sensors, serial keyboard)
+- Various LVGL test and monitoring projects
 
 → Full list: [All Repositories](https://github.com/ramo828?tab=repositories)
 
@@ -76,16 +79,22 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramo828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramo828&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramo828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ramo828&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramo828&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ramo828&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramo828&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
 **GitHub Journey**
 - Joined: **June 2019**
 - Active for: **7+ years**
@@ -97,12 +106,11 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 ### 🎯 What I'm Looking For
 
 I'm open to opportunities in:
-
-- Embedded Systems / Firmware Engineering  
-- IoT Development  
-- Technical Mentoring / Teaching roles  
-- TinyML / Edge AI projects  
-- Python automation & tooling  
+- Embedded Systems / Firmware Engineering
+- IoT Development
+- Technical Mentoring / Teaching roles
+- TinyML / Edge AI projects
+- Python automation & tooling
 
 I enjoy roles where I can both **build** and **teach**.
 
@@ -110,8 +118,8 @@ I enjoy roles where I can both **build** and **teach**.
 
 ### 📬 Let's Connect
 
-- **Email**: [illegalism666@gmail.com](mailto:illegalism666@gmail.com)  
-- **WhatsApp**: [+994 55 830 27 66](https://wa.me/994776428183)  
+- **Email**: [illegalism666@gmail.com](mailto:illegalism666@gmail.com)
+- **WhatsApp**: [+994 55 830 27 66](https://wa.me/994558302766)
 - **GitHub**: [github.com/ramo828](https://github.com/ramo828)
 
 ---
