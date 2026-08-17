@@ -79,16 +79,12 @@ Currently working as a **Mentor at Brook Academy**, teaching **Python** and **Ar
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramo828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ramo828&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=ramo828&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramo828&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramo828&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramo828&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
